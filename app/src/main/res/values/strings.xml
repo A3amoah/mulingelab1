@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sam</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="txtpassword">password</string>
+    <string name="txtusername">username</string>
+    <string name="txtfirstname">First name</string>
+    <string name="txtlastname">Last name</string>
+    <string name="txtphone">Phone</string>
+    <string name="txtemail">Email</string>
+    <string name="create_account">Create Account</string>
+<string name="login">login</string>
+    <string name="no_account">Dont have an account?  Sign up</string>
+    <string name="welcome">Welcome</string>
+</resources>
